@@ -1,0 +1,118 @@
+
+09/18/2024 07:54:11 +00:00 - [TEST_CASE][PASSED] - Test Cases/leave application: Test Cases/leave application
+
+09/18/2024 07:54:12 +00:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+09/18/2024 07:54:12 +00:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09/18/2024 07:54:12 +00:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09/18/2024 07:54:14 +00:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09/18/2024 07:54:14 +00:00 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09/18/2024 07:54:17 +00:00 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+09/18/2024 07:54:17 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/input_Username_username")): Object: 'Object Repository/Page_OrangeHRM/input_Username_username' is clicked on
+
+09/18/2024 07:54:18 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Username_username' is clicked on
+
+09/18/2024 07:54:18 +00:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username_username'
+
+09/18/2024 07:54:19 +00:00 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username_username'
+
+09/18/2024 07:54:19 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/input_Password_password")): Object: 'Object Repository/Page_OrangeHRM/input_Password_password' is clicked on
+
+09/18/2024 07:54:19 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Password_password' is clicked on
+
+09/18/2024 07:54:19 +00:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_OrangeHRM/input_Password_password"), "admin123"): Text 'admin123' is set on object 'Object Repository/Page_OrangeHRM/input_Password_password'
+
+09/18/2024 07:54:19 +00:00 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/Page_OrangeHRM/input_Password_password'
+
+09/18/2024 07:54:19 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/button_Login")): Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+09/18/2024 07:54:21 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+09/18/2024 07:54:21 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/a_Leave")): Object: 'Object Repository/Page_OrangeHRM/a_Leave' is clicked on
+
+09/18/2024 07:54:24 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/a_Leave' is clicked on
+
+09/18/2024 07:54:24 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/a_Apply")): Object: 'Object Repository/Page_OrangeHRM/a_Apply' is clicked on
+
+09/18/2024 07:54:26 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/a_Apply' is clicked on
+
+09/18/2024 07:54:26 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/dropdown")): Object: 'Object Repository/Page_OrangeHRM/dropdown' is clicked on
+
+09/18/2024 07:54:28 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/dropdown' is clicked on
+
+09/18/2024 07:54:28 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/div_CAN - FMLA")): Object: 'Object Repository/Page_OrangeHRM/div_CAN - FMLA' is clicked on
+
+09/18/2024 07:54:28 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/div_CAN - FMLA' is clicked on
+
+09/18/2024 07:54:28 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/fromdate")): Object: 'Object Repository/Page_OrangeHRM/fromdate' is clicked on
+
+09/18/2024 07:54:29 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/fromdate' is clicked on
+
+09/18/2024 07:54:29 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/div_19")): Object: 'Object Repository/Page_OrangeHRM/div_19' is clicked on
+
+09/18/2024 07:54:29 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/div_19' is clicked on
+
+09/18/2024 07:54:29 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/To Date")): Object: 'Object Repository/Page_OrangeHRM/To Date' is clicked on
+
+09/18/2024 07:54:30 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/To Date' is clicked on
+
+09/18/2024 07:54:30 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/div_19")): Object: 'Object Repository/Page_OrangeHRM/div_19' is clicked on
+
+09/18/2024 07:54:30 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/div_19' is clicked on
+
+09/18/2024 07:54:30 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/duration arrow")): Object: 'Object Repository/Page_OrangeHRM/duration arrow' is clicked on
+
+09/18/2024 07:55:01 +00:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/div/div[2]/div/div[2]/div/div/div[2]/i'. Please recheck the objects properties to make sure the desired element is located. 
+
+09/18/2024 07:55:01 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_OrangeHRM/duration arrow'. Try using Self-healing.
+
+09/18/2024 07:55:02 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_OrangeHRM/duration arrow' was broken. Propose an alternative one: 'id("app")/div[@class="oxd-layout orangehrm-upgrade-layout"]/div[@class="oxd-layout-container"]/div[@class="oxd-layout-context"]/div[@class="orangehrm-background-container"]/div[@class="orangehrm-card-container"]/form[@class="oxd-form"]/div[@class="oxd-form-row"]/div[@class="oxd-grid-4 orangehrm-full-width-grid"]/div[@class="oxd-grid-item oxd-grid-item--gutters"]/div[@class="oxd-input-group oxd-input-field-bottom-space"]/div[2]/div[@class="oxd-select-wrapper"]/div[@class="oxd-select-text oxd-select-text--active"]/div[@class="oxd-select-text--after"]/i[@class="oxd-icon bi-caret-down-fill oxd-select-text--arrow"]'.
+
+09/18/2024 07:55:02 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/duration arrow' is clicked on
+
+09/18/2024 07:55:02 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/span_Half Day - Afternoon")): Object: 'Object Repository/Page_OrangeHRM/span_Half Day - Afternoon' is clicked on
+
+09/18/2024 07:55:02 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/span_Half Day - Afternoon' is clicked on
+
+09/18/2024 07:55:02 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/comment box")): Object: 'Object Repository/Page_OrangeHRM/comment box' is clicked on
+
+09/18/2024 07:55:34 +00:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/div/div/div/div[2]/textarea'. Please recheck the objects properties to make sure the desired element is located. 
+
+09/18/2024 07:55:34 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_OrangeHRM/comment box'. Try using Self-healing.
+
+09/18/2024 07:55:34 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_OrangeHRM/comment box' was broken. Propose an alternative one: '//textarea'.
+
+09/18/2024 07:55:34 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/comment box' is clicked on
+
+09/18/2024 07:55:34 +00:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_OrangeHRM/comment box"), "personal leave"): Text 'personal leave' is set on object 'Object Repository/Page_OrangeHRM/comment box'
+
+09/18/2024 07:56:05 +00:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/div/div/div/div[2]/textarea'. Please recheck the objects properties to make sure the desired element is located. 
+
+09/18/2024 07:56:05 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_OrangeHRM/comment box'. Try using Self-healing.
+
+09/18/2024 07:56:05 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_OrangeHRM/comment box' was broken. Propose an alternative one: '//textarea'.
+
+09/18/2024 07:56:37 +00:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/div/div/div/div[2]/textarea'. Please recheck the objects properties to make sure the desired element is located. 
+
+09/18/2024 07:56:37 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_OrangeHRM/comment box'. Try using Self-healing.
+
+09/18/2024 07:56:37 +00:00 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_OrangeHRM/comment box' was broken. Propose an alternative one: '//textarea'.
+
+09/18/2024 07:56:37 +00:00 - [MESSAGE][PASSED] - Text 'personal leave' is set on object 'Object Repository/Page_OrangeHRM/comment box'
+
+09/18/2024 07:56:37 +00:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+09/18/2024 07:56:39 +00:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+09/18/2024 07:56:39 +00:00 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/button_Apply")): Object: 'Object Repository/Page_OrangeHRM/button_Apply' is clicked on
+
+09/18/2024 07:56:40 +00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Apply' is clicked on
+
+09/18/2024 07:56:40 +00:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09/18/2024 07:56:40 +00:00 - [MESSAGE][PASSED] - Browser is closed

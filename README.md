@@ -1,1 +1,1 @@
-contains notes and some test cases developed in katalon
+Contains notes and some test case reports developed in katalon
